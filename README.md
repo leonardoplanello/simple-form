@@ -1,2 +1,2 @@
 # A simple form
-HTML and CSS only
+Ultra simplistic form page, HTML and CSS only
